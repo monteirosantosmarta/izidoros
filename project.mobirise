@@ -31,8 +31,8 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 247,
-    "versionPublish": "4.8.1",
+    "uniqCompNum": 252,
+    "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
@@ -67,7 +67,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -143,7 +143,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
@@ -208,7 +208,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "title": "ÚLTIMOS PROJECTOS",
+          "title": "PORTEFÓLIO DE OBRAS",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -453,69 +453,6 @@
           "_anchor": "gallery1-6n"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
-            "showImages": true,
-            "showName": true,
-            "showBio": true,
-            "count": "2",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "O QUE DIZEM OS NOSSOS CLIENTES",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "testimonial": [
-            {
-              "authorName": "Sergio Fernandes Enes",
-              "authorBio": "Proprietário da Moradia XXX",
-              "text": "<p>Parabens pelo trabalho final! Excelente restauro!</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/31530738-10209367369659902-8114698999023271936-o-1-160x160.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
-                }
-              }
-            },
-            {
-              "authorName": "Júlio Albino",
-              "authorBio": "Proprietário da Moradia XXX",
-              "text": "<p>Ficou espetacular.</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/20900758-507260532957708-8728196388755073545-o-1-160x160.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
-                }
-              }
-            }
-          ],
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-u"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -541,11 +478,11 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": true,
+            "ShowTexts": false,
             "showButtons": false,
             "iconsBgColor": "@primaryColor",
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "0",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -562,20 +499,21 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "phone",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "#fff"
             }
           },
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "edit",
+              "name": "pencil",
               "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
@@ -585,24 +523,26 @@
           },
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "briefcase",
+              "linkInNewWindow": false,
+              "name": "magic-stick",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "#fff"
             }
           },
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
+              "linkInNewWindow": false,
+              "name": "layers",
+              "family": "et-line",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "#fff"
             }
           },
           "media5": {
@@ -639,16 +579,16 @@
               "border-color": "@primaryColor"
             }
           },
-          "title1": "<a href=\"electricidade.html\" class=\"text-warning\">ELECTRICIDADE</a>",
+          "title1": "CONSTRUÇÃO",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Redes eléctricas | Telecomunicações<br>Soluções de domótica | Equipamentos<br>",
-          "title2": "CANALIZAÇÃO",
+          "title2": "RECONSTRUÇÃO",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Redes de águas quentes e frias<br>Redes de esgotos | Redes de gás<br>Ar condicionado | Aquecimento central<br>Equipamentos e sanitários",
-          "title3": "CARPINTARIAS",
+          "title3": "REABILITAÇÃO",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Pavimentos | Estruturas<br>Portas | Janelas | Roupeiros<br>Recuperação e manutenção",
-          "title4": "SERRALHARIA",
+          "title4": "SISTEMAS DE ISALAMENTOS ETICS (\"CAPOTO\")<div><br></div>",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Estruturas | Gradeamentos<br>Portas e portões | Caixilharias<br>Lareiras e Recuperadores | Manutençãorebe",
           "title5": "Trendy Website Blocks",
@@ -667,30 +607,22 @@
           "_anchor": "features7-15"
         },
         {
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#f2f2f2",
-              "border-color": "#f2f2f2"
-            }
-          },
+          "_inherit": "features4",
           "_params": {
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": true,
+            "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "#f2f2f2",
-            "paddingTop": 2,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
             "paddingBottom": 2,
-            "columns": "4",
+            "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -701,84 +633,98 @@
           },
           "media1": {
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "phone",
+              "name": "edit",
               "family": "et-line",
               "active": true,
-              "link": "construcao.html",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "newWindow": false
+              "color": "#fff"
             }
           },
           "media2": {
             "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "paintbrush",
+              "family": "et-line",
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "family": "et-line"
+              "color": "#fff"
             }
           },
           "media3": {
             "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "tools-2",
+              "family": "et-line",
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "family": "et-line"
+              "color": "#fff"
             }
           },
           "media4": {
             "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "tools",
+              "family": "et-line",
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
-              "family": "et-line"
+              "color": "#fff"
             }
           },
           "media5": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
+              "color": "#fff",
               "family": "et-line"
             }
           },
           "media6": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
+              "class": "mbr-iconfont mbr-iconfont-features7",
               "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "black",
+              "color": "#fff",
               "family": "et-line"
             }
           },
-          "title1": "<a href=\"construcao.html\" class=\"text-black\">CONSTRUÇÃO</a>",
-          "subtitle1": "",
-          "caption1": "Demolição | Estruturas | Alvenarias<br>Divisórias e tetos falsos<br>Estuques | Ladrilhos | Pinturas<br>Isolamentos térmicos | Impermeabilizações",
-          "title2": "PROJECTOS E CONSULTORIA",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "title1": "REMODELAÇÃO DE INTERIORES",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Redes eléctricas | Telecomunicações<br>Soluções de domótica | Equipamentos<br>",
+          "title2": "PINTURAS E ACABAMENTOS",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Arquitectura  | Engenharias<br>Design de interiores<br>Consultoria Imobiliária<br>Levantamentos<br>",
-          "title3": "DECORAÇÃO",
+          "caption2": "Redes de águas quentes e frias<br>Redes de esgotos | Redes de gás<br>Ar condicionado | Aquecimento central<br>Equipamentos e sanitários",
+          "title3": "ELECTRICIDADE E CANALIZAÇÃO",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Projectos de decoração  | Iluminação<br>Mobiliário | Estofos | Cortinas | Tapetes<br>",
-          "title4": "REVESTIMENTOS",
+          "caption3": "Pavimentos | Estruturas<br>Portas | Janelas | Roupeiros<br>Recuperação e manutenção",
+          "title4": "SERRALHARIA E CARPINTARIA",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Pedra natural  | Cerâmico | Microcimento<br>Madeiras | Flutuantes<br>",
+          "caption4": "Estruturas | Gradeamentos<br>Portas e portões | Caixilharias<br>Lareiras e Recuperadores | Manutençãorebe",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -791,11 +737,93 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-6w"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": true,
+            "count": "4",
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.2
+          },
+          "title": "O QUE DIZEM OS NOSSOS CLIENTES",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Júlio Albino",
+              "authorBio": "User",
+              "text": "<p>\"Ficou espetacular. 5 estrelas!\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Olinda Jouetre",
+              "authorBio": "User",
+              "text": "<p>\"São uns verdadeiros artistas.\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Telma Gonçalves",
+              "authorBio": "User",
+              "text": "<p>“Está lindo. Bom trabalho.\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Susana Honorato Mota",
+              "authorBio": "Developer",
+              "text": "<p>\"Muito satisfeitos com o trabalho, obrigado.\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
           "_tags": [
             "Theme"
           ],
-          "_name": "features4",
-          "_anchor": "features4-14"
+          "_name": "testimonials2",
+          "_anchor": "testimonials2-6v"
         },
         {
           "_params": {
@@ -870,6 +898,32 @@
           "_anchor": "map1-b"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "SIGA-NOS",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-6z"
+        },
+        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -902,7 +956,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -937,7 +991,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1165,7 +1219,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -1200,7 +1254,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1428,7 +1482,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -1463,7 +1517,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1691,7 +1745,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -1726,7 +1780,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1954,7 +2008,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -1989,7 +2043,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2217,7 +2271,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -2252,7 +2306,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2480,7 +2534,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -2515,7 +2569,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2743,7 +2797,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -2778,7 +2832,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3006,7 +3060,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -3041,7 +3095,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3217,7 +3271,7 @@
             }
           },
           "title": "RECONSTRUÇÃO DE MORADIA",
-          "text": "Reconstrução Total de Moradia Unifamiliar<br>Este álbum tem como objectivo mostrar o desenvolvimento de uma obra de reconstrução efectuada pela nossa empresa. Todas as fotos foram utilizadas com a devida autorização do proprietário, Daniel Mota<br><br><b>Ano:</b><br><b>Cliente:</b><br><b>Local:</b>&nbsp;Dornelas Do Zêzere, Castelo Branco, Portugal<br><b>Tipologia:</b><br><b>Serviços:</b>",
+          "text": "Reconstrução Total de Moradia Unifamiliar<br>Este álbum tem como objectivo mostrar o desenvolvimento de uma obra de reconstrução efectuada pela nossa empresa. Todas as fotos foram utilizadas com a devida autorização do proprietário, Daniel Mota<br><br><b>Data da Obra:</b><br><b>Data da Foto:</b><br><b>Local:</b>&nbsp;Dornelas Do Zêzere, Castelo Branco, Portugal<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">CONTACTE-NOS</a> ",
           "_tags": [
             "Theme"
@@ -3388,7 +3442,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -3423,7 +3477,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3445,10 +3499,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3473,7 +3527,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffbd4a!important"
             }
           },
           "logo": {
@@ -3599,7 +3653,7 @@
             }
           },
           "title": "CONSTRUÇÃO MURO DE CONTENÇÃO",
-          "text": "Construção de muro de contenção junto ao centro escolar de Dornelas do Zêzere - Pampilhosa da Serra - Coimbra<br><br><b>Ano:</b><br><b>Cliente:</b><br><b>Local:</b>&nbsp;Dornelas Do Zêzere, Castelo Branco, Portugal<br><b>Tipologia:</b><br><b>Serviços:</b>",
+          "text": "Construção de muro de contenção junto ao centro escolar de Dornelas do Zêzere - Pampilhosa da Serra - Coimbra<br><br><b>Data da Obra:<br>Data da Foto:</b><br><b>Local:</b>&nbsp;Dornelas Do Zêzere, Castelo Branco, Portugal<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">CONTACTE-NOS</a> ",
           "_tags": [
             "Theme"
@@ -3686,7 +3740,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -3721,7 +3775,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3743,10 +3797,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3771,7 +3825,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffbd4a!important"
             }
           },
           "logo": {
@@ -3897,7 +3951,7 @@
             }
           },
           "title": "REQUALIFICAÇÃO E ABERTURA PORTA",
-          "text": "equalificação e abertura de porta de acesso aos Wc's Publicos e parque infantil de Dornelas do Zêzere - Pampilhosa da Serra - Coimbra<br><br><b>Ano:</b><br><b>Cliente:</b><br><b>Local:</b>&nbsp;Dornelas Do Zêzere, Castelo Branco, Portugal<br><b>Tipologia:</b><br><b>Serviços:</b>",
+          "text": "equalificação e abertura de porta de acesso aos Wc's Publicos e parque infantil de Dornelas do Zêzere - Pampilhosa da Serra - Coimbra<br><br><b>Data da Obra:<br>Data da Foto:</b><br><b>Local:</b>&nbsp;Dornelas Do Zêzere, Castelo Branco, Portugal<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">CONTACTE-NOS</a> ",
           "_tags": [
             "Theme"
@@ -3984,7 +4038,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -4019,7 +4073,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4041,10 +4095,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -4069,7 +4123,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffbd4a!important"
             }
           },
           "logo": {
@@ -4195,7 +4249,7 @@
             }
           },
           "title": "MORADIA ARQUITECTURA MODERNA",
-          "text": "Construção de moradia com arquitectura moderna - a nossa empresa apenas efectuou a estrutura, acabamentos a cargo de outra empresa - em Carvalhais - Coimbra<br><br><b>Ano:</b><br><b>Cliente:</b><br><b>Local:</b>&nbsp;Carvalhais, Coimbra, Portugal<br><b>Tipologia:</b><br><b>Serviços:</b>",
+          "text": "Construção de moradia com arquitectura moderna - a nossa empresa apenas efectuou a estrutura, acabamentos a cargo de outra empresa - em Carvalhais - Coimbra<br><br><b>Data da Obra:<br>Data da Foto:</b><br><b>Local:</b>&nbsp;Carvalhais, Coimbra, Portugal<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">CONTACTE-NOS</a> ",
           "_tags": [
             "Theme"
@@ -4282,7 +4336,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -4317,7 +4371,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4339,10 +4393,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -4367,7 +4421,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffbd4a!important"
             }
           },
           "logo": {
@@ -4493,7 +4547,7 @@
             }
           },
           "title": "APLICAÇÃO DE SISTEMA ETICS (CAPOTO)",
-          "text": "Aplicação de sitema ETICS (capoto) em moradia - Dornelas do Zêzere - Pampilhosa da Serra - Coimbra — em Dornelas Do Zêzere, Castelo Branco, Portugal.<br><br><b>Ano:</b><br><b>Cliente:</b><br><b>Local:</b>&nbsp;Dornelas Do Zêzere, Castelo Branco, Portugal<br><b>Tipologia:</b><br><b>Serviços:</b>",
+          "text": "Aplicação de sitema ETICS (capoto) em moradia - Dornelas do Zêzere - Pampilhosa da Serra - Coimbra — em Dornelas Do Zêzere, Castelo Branco, Portugal.<br><br><b>Data da Obra:<br>Data da Foto:</b><br><b>Local:</b>&nbsp;Dornelas Do Zêzere, Castelo Branco, Portugal<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">CONTACTE-NOS</a> ",
           "_tags": [
             "Theme"
@@ -4592,7 +4646,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -4627,7 +4681,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4649,10 +4703,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -4677,7 +4731,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffbd4a!important"
             }
           },
           "logo": {
@@ -4803,7 +4857,7 @@
             }
           },
           "title": "CONSTRUÇÃO LOTE MORADIAS",
-          "text": "Construção de Lote de 3 moradias iguais em Carvalhais - Coimbra (moradias já com 10 anos de uso aquando da data desta fotografia) — em Carvalhais, Coimbra, Portugal.<br><br><b>Ano:</b><br><b>Cliente:</b><br><b>Local:</b>&nbsp;Carvalhais, Coimbra, Portugal<br><b>Tipologia:</b><br><b>Serviços:</b>",
+          "text": "Construção de Lote de 3 moradias iguais em Carvalhais - Coimbra (moradias já com 10 anos de uso aquando da data desta fotografia) — em Carvalhais, Coimbra, Portugal.<br><br><b>Data da Obra:<br>Data da Foto:</b><br><b>Local:</b>&nbsp;Carvalhais, Coimbra, Portugal<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">CONTACTE-NOS</a> ",
           "_tags": [
             "Theme"
@@ -4914,7 +4968,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -4949,7 +5003,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4971,10 +5025,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -4999,7 +5053,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffbd4a!important"
             }
           },
           "logo": {
@@ -5125,7 +5179,7 @@
             }
           },
           "title": "CONSTRUÇÃO MORADIA UNIFAMILIAR",
-          "text": "Construção de Moradia unifamiliar em Silvares - Fundão - Castelo Branco — em Silvares, Castelo Branco, Portugal.<br><br><b>Ano:</b><br><b>Cliente:</b><br><b>Local:</b>&nbsp;Silvares, Castelo Branco, Portugal<br><b>Tipologia:</b><br><b>Serviços:</b>",
+          "text": "Construção de Moradia unifamiliar em Silvares - Fundão - Castelo Branco — em Silvares, Castelo Branco, Portugal.<br><br><b>Data da Obra:<br>Data da Foto:</b><br><b>Local:</b>&nbsp;Silvares, Castelo Branco, Portugal<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">CONTACTE-NOS</a> ",
           "_tags": [
             "Theme"
@@ -5212,7 +5266,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -5247,7 +5301,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -5269,10 +5323,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -5297,7 +5351,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffbd4a!important"
             }
           },
           "logo": {
@@ -5423,7 +5477,7 @@
             }
           },
           "title": "CONSTRUÇÃO MORADIA UNIFAMILIAR",
-          "text": "Construção de moradia unifamiliar. Obras concluidas à 5/6 anos aquando destas fotografias - Alqueidão - Barroca do Zêzere - Fundão — em Barroca Do Zezere.<br><br><b>Ano:</b><br><b>Cliente:</b><br><b>Local:</b>&nbsp;Alqueidão - Barroca do Zêzere - Fundão<br><b>Tipologia:</b><br><b>Serviços:</b>",
+          "text": "Construção de moradia unifamiliar. Obras concluidas à 5/6 anos aquando destas fotografias - Alqueidão - Barroca do Zêzere - Fundão — em Barroca Do Zezere.<br><br><b>Data da Obra:<br>Data da Foto:</b><br><b>Local:</b>&nbsp;Alqueidão - Barroca do Zêzere - Fundão<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">CONTACTE-NOS</a> ",
           "_tags": [
             "Theme"
@@ -5522,7 +5576,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -5557,7 +5611,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -5579,10 +5633,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -5607,7 +5661,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffbd4a!important"
             }
           },
           "logo": {
@@ -5733,7 +5787,7 @@
             }
           },
           "title": "REQUALIFICAÇÃO E AMPLIAÇÃO MORADIA",
-          "text": "Requalificação e ampliação de moradia unifamiliar em Dornelas do Zêzere - Pampilhosa da Serra - Coimbra — em Dornelas Do Zêzere, Castelo Branco, Portugal.<br><br><b>Ano:</b><br><b>Cliente:</b><br><b>Local:</b>&nbsp;Dornelas Do Zêzere, Castelo Branco, Portugal<br><b>Tipologia:</b><br><b>Serviços:</b>",
+          "text": "Requalificação e ampliação de moradia unifamiliar em Dornelas do Zêzere - Pampilhosa da Serra - Coimbra — em Dornelas Do Zêzere, Castelo Branco, Portugal.<br><br><b>Data da Obra:<br>Data da Foto:</b><br><b>Local:</b>&nbsp;Dornelas Do Zêzere, Castelo Branco, Portugal<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">CONTACTE-NOS</a> ",
           "_tags": [
             "Theme"
@@ -5832,7 +5886,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -5867,7 +5921,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -5889,10 +5943,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -5917,7 +5971,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffbd4a!important"
             }
           },
           "logo": {
@@ -6043,7 +6097,7 @@
             }
           },
           "title": "CONSTRUÇÃO LOTEAMENTO 4 VIVENDAS",
-          "text": "Construção de loteamento de 4 vivendas em Coimbra (Imagens retiradas do Google maps) — em Carvalhais, Coimbra, Portugal.<br><br><b>Ano:</b><br><b>Cliente:</b><br><b>Local:</b>&nbsp;Carvalhais, Coimbra, Portuga<br><b>Tipologia:</b><br><b>Serviços:</b>",
+          "text": "Construção de loteamento de 4 vivendas em Coimbra (Imagens retiradas do Google maps) — em Carvalhais, Coimbra, Portugal.<br><br><b>Data da Obra:<br>Data da Foto:</b><br><b>Local:</b>&nbsp;Carvalhais, Coimbra, Portugal<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">CONTACTE-NOS</a> ",
           "_tags": [
             "Theme"
@@ -6142,7 +6196,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -6177,7 +6231,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -6199,10 +6253,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -6227,7 +6281,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffbd4a!important"
             }
           },
           "logo": {
@@ -6353,7 +6407,7 @@
             }
           },
           "title": "CONSTRUÇÃO MORADIA GEMINADA",
-          "text": "Construção de moradia geminada em Rocha-Nova, Coimbra (Imagens retiradas do Google maps) — em Rocha Nova, Coimbra, Portugal<br><br><b>Ano:</b><br><b>Cliente:</b><br><b>Local:</b>&nbsp;Rocha Nova, Coimbra, Portugal<br><b>Tipologia:</b><br><b>Serviços:</b>",
+          "text": "Construção de moradia geminada em Rocha-Nova, Coimbra (Imagens retiradas do Google maps) — em Rocha Nova, Coimbra, Portugal<br><br><b>Data da Obra:<br>Data da Foto:</b><br><b>Local:</b>&nbsp;Rocha Nova, Coimbra, Portugal<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">CONTACTE-NOS</a> ",
           "_tags": [
             "Theme"
@@ -6440,7 +6494,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -6475,7 +6529,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -6497,10 +6551,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -6525,7 +6579,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffbd4a!important"
             }
           },
           "logo": {
@@ -6651,7 +6705,7 @@
             }
           },
           "title": "CONSTRUÇÃO LOTEAMENTO 5 VIVENDAS",
-          "text": "Construção de loteamento de 5 vivendas em Taveiro, Coimbra (Imagens retiradas do Google maps) — em Taveiro, Coimbra, Portugal.<br><br><b>Ano:</b><br><b>Cliente:</b><br><b>Local:</b>&nbsp;Taveiro, Coimbra, Portugal<br><b>Tipologia:</b><br><b>Serviços:</b>",
+          "text": "Construção de loteamento de 5 vivendas em Taveiro, Coimbra (Imagens retiradas do Google maps) — em Taveiro, Coimbra, Portugal.<br><br><b>Data da Obra:<br>Data da Foto:</b><br><b>Local:</b>&nbsp;Taveiro, Coimbra, Portugal<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">CONTACTE-NOS</a> ",
           "_tags": [
             "Theme"
@@ -6762,7 +6816,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -6797,7 +6851,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -6819,10 +6873,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -6847,7 +6901,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffbd4a!important"
             }
           },
           "logo": {
@@ -6973,7 +7027,7 @@
             }
           },
           "title": "CONSTRUÇÃO LOTEAMENTO 4 VIVENDAS",
-          "text": "Construção de loteamento de 4 vivendas em Taveiro, Coimbra, em frente ao Estadio Sergio Conceição (Imagens retiradas do Google maps) — em Estádio Sérgio Conceição.<br><br><b>Ano:</b><br><b>Cliente:</b><br><b>Local:</b>&nbsp;Taveiro, Coimbra, Portugal<br><b>Tipologia:</b><br><b>Serviços:</b>",
+          "text": "Construção de loteamento de 4 vivendas em Taveiro, Coimbra, em frente ao Estadio Sergio Conceição (Imagens retiradas do Google maps) — em Estádio Sérgio Conceição.<br><br><b>Data da Obra:<br>Data da Foto:</b><br><b>Local:</b>&nbsp;Taveiro, Coimbra, Portugal<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">CONTACTE-NOS</a> ",
           "_tags": [
             "Theme"
@@ -7084,7 +7138,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -7119,7 +7173,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -7141,10 +7195,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -7169,7 +7223,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffbd4a!important"
             }
           },
           "logo": {
@@ -7295,7 +7349,7 @@
             }
           },
           "title": "REABILITAÇÃO CASA ANTIGA",
-          "text": "Reabilitação de casa antiga — em Praia fluvial, Dornelas do Zêzere.<br><br><b>Ano:</b><br><b>Cliente:</b><br><b>Local:</b>&nbsp;Praia fluvial, Dornelas do Zêzere<br><b>Tipologia:</b><br><b>Serviços:</b>",
+          "text": "Reabilitação de casa antiga — em Praia fluvial, Dornelas do Zêzere.<br><br><b>Data da Obra:<br>Data da Foto:</b><br><b>Local:</b>&nbsp;Praia fluvial, Dornelas do Zêzere<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">CONTACTE-NOS</a> ",
           "_tags": [
             "Theme"
@@ -7394,7 +7448,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -7429,7 +7483,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -7451,10 +7505,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -7479,7 +7533,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffbd4a!important"
             }
           },
           "logo": {
@@ -7605,7 +7659,7 @@
             }
           },
           "title": "CONSTRUÇÃO DUAS MORADIAS",
-          "text": "Construção de duas moradias, junto ao Hospital do fundão,Bairro dos Lilazes(Imagem retirada do Google Maps) — em Fundão.<br><br><b>Ano:</b><br><b>Cliente:</b><br><b>Local:</b>&nbsp;Bairro dos Lilazes, Fundão<br><b>Tipologia:</b><br><b>Serviços:</b>",
+          "text": "Construção de duas moradias, junto ao Hospital do fundão,Bairro dos Lilazes(Imagem retirada do Google Maps) — em Fundão.<br><br><b>Data da Obra:<br>Data da Foto:</b><br><b>Local:</b>&nbsp;Bairro dos Lilazes, Fundão<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">CONTACTE-NOS</a> ",
           "_tags": [
             "Theme"
@@ -7740,7 +7794,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -7775,7 +7829,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features7-15\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SERVIÇOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"electricidade.html\">ELECTRICIDADE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"canalizacao.html\" aria-expanded=\"false\">CANALIZAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carpintaria.html\" aria-expanded=\"false\">CARPINTARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"serralharia.html\" aria-expanded=\"false\">SERRALHARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"construcao.html\" aria-expanded=\"false\">CONSTRUÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projecto_consultoria.html\" aria-expanded=\"false\">PROJECTOS | CONSULTORIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"decoracao.html\" aria-expanded=\"false\">DECORAÇÃO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"revestimentos.html\" aria-expanded=\"false\">REVESTIMENTOS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PROJECTOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-15\" aria-expanded=\"false\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">PORTEFÓLIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-19\">CONTACTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -7797,10 +7851,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -7825,7 +7879,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffbd4a!important"
             }
           },
           "logo": {
@@ -7951,7 +8005,7 @@
             }
           },
           "title": "CONSTRUÇÃO MORADIA",
-          "text": "Construção de Moradia. Obra feita há +- 15anos (Imagem retirada do Google Maps) — com Transportes Serra &amp; Filhos Lda em Silvares, Castelo Branco, Portugal.<br><br><b>Ano:</b><br><b>Cliente:</b><br><b>Local:</b>&nbsp;Silvares, Castelo Branco, Portugal<br><b>Tipologia:</b><br><b>Serviços:</b>",
+          "text": "Construção de Moradia. Obra feita há +- 15anos (Imagem retirada do Google Maps) — com Transportes Serra &amp; Filhos Lda em Silvares, Castelo Branco, Portugal.<br><br><b>Data da Obra:<br>Data da Foto:</b><br><b>Local:</b>&nbsp;Silvares, Castelo Branco, Portugal<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">CONTACTE-NOS</a> ",
           "_tags": [
             "Theme"
@@ -8038,7 +8092,7 @@
             }
           },
           "text1": "<strong>Morada</strong><br>Rua Nossa Senhora dos Caminhos S/N<br>3320-053 Dornelas do Zêzere<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>",
+          "text2": "<strong>Contactos</strong><br>\nEmail: <a href=\"mailto:geral.isidoros@sapo.pt\">geral.isidoros@sapo.pt</a><br>\nTelefone: <a href=\"tel:+351 275 647 196\">+351 275 647 196</a><br>\nFax: <a href=\"tel: +351275647196\">+351 275 647 196</a><br>Telemóvel: <a href=\"tel:+351 275 647 196\">+351 932 190 111</a><br>",
           "text3": "",
           "_tags": [
             "Theme"
