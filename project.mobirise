@@ -147,7 +147,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/architect-architecture-build-1109542-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/architect-architecture-build-1109543-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -488,7 +488,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -504,7 +504,7 @@
               "name": "home",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#fff"
             }
@@ -516,7 +516,7 @@
               "name": "pencil",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#fff"
             }
@@ -528,7 +528,7 @@
               "name": "magic-stick",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#fff"
             }
@@ -540,7 +540,7 @@
               "name": "layers",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#fff"
             }
@@ -622,7 +622,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -638,7 +638,7 @@
               "name": "edit",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#fff"
             }
@@ -650,7 +650,7 @@
               "name": "paintbrush",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#fff"
             }
@@ -662,7 +662,7 @@
               "name": "tools-2",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#fff"
             }
@@ -674,7 +674,7 @@
               "name": "tools",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#fff"
             }
@@ -746,7 +746,7 @@
             "showSubtitle": false,
             "showImages": false,
             "showName": true,
-            "showBio": true,
+            "showBio": false,
             "count": "4",
             "paddingTop": "3",
             "paddingBottom": 3,
@@ -828,7 +828,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubTitle": true,
+            "showSubTitle": false,
             "labelsColor": "#232323",
             "paddingTop": "1",
             "paddingBottom": "1",
